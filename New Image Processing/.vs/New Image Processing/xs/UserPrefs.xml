@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{A241D3F3-867A-07BF-E229-E2012AB5BF27}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/setPixel.cs">
+    <Files>
+      <File FileName="Assets/setPixel.cs" Line="204" Column="51" />
+      <File FileName="Assets/move.cs" />
+      <File FileName="Assets/UIDrag.cs" />
+      <File FileName="Assets/ButtonListener.cs" />
+      <File FileName="Assets/EventTriggerHandler.cs" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="4ffce919-443e-4fa5-97fb-67d138bd9b7a" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
